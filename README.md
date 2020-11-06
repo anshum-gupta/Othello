@@ -1,6 +1,6 @@
-# Reversi
+# OTHELLO
 
-<p>Computer Reversi Game and also an AI Player for AI Competition.</p>
+<p>Computer OTHELLO Game and also an AI Player for AI Competition.</p>
 <p>this project consists of a GUI for Playing Othello and also an AI Player.</p>
 
 <br/>
